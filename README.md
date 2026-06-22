@@ -24,7 +24,7 @@ GROQ_API_KEY=your_key_here
 ## Run the application
 
 ```bash
-streamlit run chatgpt-ui-streamlit.py
+streamlit run app.py
 ```
 
 ## Project Structure
@@ -35,7 +35,7 @@ streamlit run chatgpt-ui-streamlit.py
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-└── chatgpt-ui-streamlit.py
+└── app.py
 ```
 
 ## Features
